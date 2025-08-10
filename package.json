@@ -1,0 +1,22 @@
+{
+  "name": "realproject",
+  "version": "1.0.0",
+  "description": "A fullstack role based task manager",
+  "license": "ISC",
+  "author": "Raghib0808",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "mongoose": "^8.17.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
